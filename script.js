@@ -55,10 +55,10 @@
 */
 const messages = [
     "Are you sure?",
-    "Really sure??",
+    "Really sure Jaan??",
     "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
+    "My Love please...",
+    "Just think about it baby!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
